@@ -47,6 +47,14 @@ Self-host the `.woff2` files and link `web/webfonts.css` (it declares every weig
 <link rel="stylesheet" href="/nortics-geist/web/webfonts.css">
 ```
 
+No hosting at hand? The same CSS and fonts can be loaded from the jsDelivr CDN, pinned to a release tag (the font URLs inside the CSS resolve correctly because the folder layout is the same):
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/younner-org/nortics-geist-typeface@v1.100/web/webfonts.css">
+```
+
+For production, self-hosting is recommended: it avoids a third-party request and a dependency on an external service.
+
 ```css
 :root {
   --font-sans: "Geist Rounded by Nortics", system-ui, sans-serif;

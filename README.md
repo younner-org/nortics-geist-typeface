@@ -57,6 +57,12 @@ git clone https://github.com/younner-org/nortics-geist-typeface.git
 </style>
 ```
 
+Or load it from the jsDelivr CDN, pinned to a release (no hosting needed):
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/younner-org/nortics-geist-typeface@v1.100/web/webfonts.css">
+```
+
 Open [`web/specimen.html`](web/specimen.html) to preview every weight.
 
 ## Language support
@@ -69,7 +75,7 @@ English, Portuguese (pt-BR / pt-PT) and Spanish are fully covered in all 40 font
 fonts/<family>/ttf     desktop fonts          fonts/<family>/woff2   web fonts
 web/                   webfonts.css + specimen.html
 docs/                  full documentation     docs/images/           specimens
-source/                build and QA scripts   OFL.txt / LICENSE-MIT.txt   licenses
+source/                build and QA scripts   OFL.txt, licenses/       licenses (OFL for fonts, MIT for the rest)
 ```
 
 ## Documentation
@@ -89,8 +95,8 @@ source/                build and QA scripts   OFL.txt / LICENSE-MIT.txt   licens
 ## License
 
 - **Fonts** (everything in `fonts/`): [SIL Open Font License 1.1](OFL.txt). You may use them freely, including commercially, embed them, modify them and redistribute them, as long as the copyright notice and the license travel with them and modified versions are also released under the OFL. They may not be sold on their own.
-- **Scripts, web files and documentation:** [MIT](LICENSE-MIT.txt).
-- Details and the exact file map: [LICENSE.md](LICENSE.md) and [docs/LICENSING.md](docs/LICENSING.md).
+- **Scripts, web files and documentation:** [MIT](licenses/MIT.txt).
+- Details, the exact file map and a plain-language explanation: [docs/LICENSING.md](docs/LICENSING.md).
 
 ## Credits and independence
 
