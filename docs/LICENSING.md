@@ -1,13 +1,13 @@
 # Licensing, in plain language
 
-This page explains the licenses of the project. It is a summary to help you; the license texts ([`OFL.txt`](../OFL.txt) and [`LICENSE-MIT.txt`](../LICENSE-MIT.txt)) are what legally applies. It is not legal advice.
+This page explains the licenses of the project. It is a summary to help you; the license texts ([`OFL.txt`](../OFL.txt) and [`licenses/MIT.txt`](../licenses/MIT.txt)) are what legally applies. It is not legal advice.
 
 ## What is under which license
 
 | What | License | Where |
 | --- | --- | --- |
 | The **fonts**: `.ttf` and `.woff2` | **SIL Open Font License 1.1** | `fonts/`, text in [`OFL.txt`](../OFL.txt) |
-| Build and QA scripts, web files (`webfonts.css`, `specimen.html`), documentation, images | **MIT** | `source/`, `web/`, `docs/`, root files, text in [`LICENSE-MIT.txt`](../LICENSE-MIT.txt) |
+| Build and QA scripts, web files (`webfonts.css`, `specimen.html`), documentation, images | **MIT** | `source/`, `web/`, `docs/`, root documents, text in [`licenses/MIT.txt`](../licenses/MIT.txt) |
 
 The font metadata (name table) of every font states the OFL, so the license travels with the file.
 

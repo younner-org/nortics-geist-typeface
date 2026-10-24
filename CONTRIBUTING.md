@@ -24,7 +24,7 @@ Rendering problems that also appear in the original Geist belong upstream: <http
 - Only fonts derived from **OFL-licensed** sources may live in `fonts/`. Never add fonts under a different license, trial fonts or commercial fonts, and never add glyph outlines copied from them.
 - Keep the copyright notice and the license in the font metadata and in [OFL.txt]sOFL.txt).
 - Do not use a Reserved Font Name of any upstream project in a new family name.
-- By contributing you agree that your contribution is released under the same terms as the part of the project it touches: **OFL 1.1** for fonts, **MIT** for scripts and documentation ssee [LICENSE.md]sLICENSE.md)).
+- By contributing you agree that your contribution is released under the same terms as the part of the project it touches: **OFL 1.1** for fonts, **MIT** for scripts and documentation (see [docs/LICENSING.md](docs/LICENSING.md)).
 
 ## Code style
 
