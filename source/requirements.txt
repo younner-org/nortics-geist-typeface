@@ -1,0 +1,7 @@
+fonttools>=4.63.0
+brotli>=1.1.0
+skia-pathops>=0.9.0
+# QA and documentation images only
+freetype-py>=2.5.0
+pillow>=11.0.0
+uharfbuzz>=0.50.0

@@ -1,0 +1,50 @@
+/* Nortics Geist - web fonts (WOFF2). SIL Open Font License 1.1.
+   Link this file and use the family names below, e.g.  font-family: "Geist Rounded by Nortics"; font-weight: 250; */
+
+/* Geist Rounded by Nortics */
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 100; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Thin.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 150; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-UltraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 200; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-ExtraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 250; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-SemiLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 300; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Light.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Regular.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Medium.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-SemiBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 800; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-ExtraBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded by Nortics"; font-weight: 900; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-by-nortics/woff2/GeistRoundedByNortics-Black.woff2") format("woff2"); }
+
+/* Geist Rounded Mono by Nortics */
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 100; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-Thin.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 200; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-ExtraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 250; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-SemiLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 300; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-Light.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-Regular.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-Medium.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-SemiBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Rounded Mono by Nortics"; font-weight: 800; font-style: normal; font-display: swap; src: url("../fonts/geist-rounded-mono-by-nortics/woff2/GeistRoundedMonoByNortics-ExtraBold.woff2") format("woff2"); }
+
+/* Geist Sharp by Nortics */
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 100; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Thin.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 150; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-UltraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 200; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-ExtraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 250; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-SemiLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 300; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Light.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Regular.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Medium.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-SemiBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 800; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-ExtraBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp by Nortics"; font-weight: 900; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-by-nortics/woff2/GeistSharpByNortics-Black.woff2") format("woff2"); }
+
+/* Geist Sharp Mono by Nortics */
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 100; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-Thin.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 200; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-ExtraLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 250; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-SemiLight.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 300; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-Light.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-Regular.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 500; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-Medium.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 600; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-SemiBold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Geist Sharp Mono by Nortics"; font-weight: 800; font-style: normal; font-display: swap; src: url("../fonts/geist-sharp-mono-by-nortics/woff2/GeistSharpMonoByNortics-ExtraBold.woff2") format("woff2"); }
